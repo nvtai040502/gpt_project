@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "gpt_project"
+  site-url: "https://nvtai040502.github.io/gpt_project"
+  description: "'helo'"
+  repo-branch: main
+  repo-url: "https://github.com/nvtai040502/gpt_project"

@@ -1,0 +1,7 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_knowledge.ipynb
+      - 01_nano.ipynb
+      - 02_words.ipynb
